@@ -17,7 +17,7 @@ https://alchemycodelab.github.io/web-01-character-designer/
 
 ## Getting Started
 
-User [this repository](https://github.com/alchemycodelab/half-baked-web-01-character-designer) as a template for this deliverable.
+Use [this repository](https://github.com/alchemycodelab/half-baked-web-01-character-designer) as a template for this deliverable.
 
 | Events . . .                                                                                                                                          |     |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------- | --: |
